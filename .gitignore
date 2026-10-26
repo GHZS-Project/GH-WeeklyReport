@@ -1,0 +1,9 @@
+node_modules/
+data/
+*.xlsx
+*.xls
+*.csv
+server/__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
