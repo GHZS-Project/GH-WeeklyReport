@@ -1,6 +1,6 @@
 # GH-WeeklyReport
 
-> 📚 **本文档属于 GH 系列交接项目。** 总入口（全部 10 个仓库索引、可用性实测、可复制的 AI Agent prompt）：https://github.com/A13612812330/GH-Handover
+> 📚 **本文档属于 GH 系列交接项目。** 总入口（全部 10 个仓库索引、可用性实测、可复制的 AI Agent prompt）：https://github.com/GHZS-Project/GH-Handover
 
 本地/局域网周报分析工具：读取同模板 Excel 周报，整理当前周、跨周汇总、游戏详情收益汇总和趋势图。
 
